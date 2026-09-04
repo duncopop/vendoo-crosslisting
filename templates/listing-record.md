@@ -1,0 +1,34 @@
+# Listing Record
+
+- Batch date:
+- Folder serial:
+- SKU:
+- Vendoo item ID:
+- Brand:
+- Department:
+- Item type:
+- Tagged size:
+- Size type/fit:
+- Primary color:
+- Secondary color:
+- Pattern:
+- Materials:
+- Features:
+- Approximate flat measurements:
+- Condition grade:
+- Flaws:
+- Photo count:
+- Photos requiring rotation:
+- Estimated packed weight:
+- Estimated dimensions:
+- Sold comp search:
+- Representative sold range:
+- Selected price:
+- Comp rationale:
+- Marketplace blockers:
+- Master saved:
+- eBay saved:
+- Poshmark saved:
+- Depop saved:
+- Publish approved:
+- Published marketplaces:

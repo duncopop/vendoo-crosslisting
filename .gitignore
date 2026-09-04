@@ -1,0 +1,25 @@
+# Never commit source listing photos or generated photo derivatives.
+Listing Photos/
+Screenshots/
+prepared-photos/
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+
+# Local/browser/account state and secrets.
+.env
+.env.*
+!.env.example
+cookies*
+session*
+*.log
+.DS_Store
+Thumbs.db
+.codex/
+.agents/
+
+# Temporary files.
+tmp/
+*.tmp
